@@ -1,4 +1,4 @@
-package com.patterns.structure.brige.Devices;
+package com.patterns.structure.Brige.Devices;
 
 public interface Device {
     public boolean isEnabled();

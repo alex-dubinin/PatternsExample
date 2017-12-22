@@ -1,4 +1,4 @@
-package com.patterns.structure.brige.Devices;
+package com.patterns.structure.Brige.Devices;
 
 public class Tv implements Device {
     private boolean on = false;

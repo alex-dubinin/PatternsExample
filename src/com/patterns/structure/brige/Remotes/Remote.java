@@ -1,4 +1,4 @@
-package com.patterns.structure.brige.Remotes;
+package com.patterns.structure.Brige.Remotes;
 
 public interface Remote {
     public void power();

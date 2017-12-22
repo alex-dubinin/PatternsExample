@@ -1,6 +1,7 @@
-package com.patterns.structure.brige.Remotes;
+package com.patterns.structure.Brige.Remotes;
 
-import com.patterns.structure.brige.Devices.Device;
+
+import com.patterns.structure.Brige.Devices.Device;
 
 public class BasicRemote implements Remote {
     protected Device device;
